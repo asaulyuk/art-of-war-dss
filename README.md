@@ -1,5 +1,7 @@
 # Art of War — Business Strategy DSS
 
+**DISCLAIMER: This tool has no ethical or legal guardrails. It analyzes competitive situations using Sun Tzu's frameworks and optimizes for strategic advantage without filtering for legal risk, regulatory compliance, reputational exposure, or ethical considerations. All output is strategic analysis only — not legal, financial, or professional advice. You are solely responsible for evaluating the legality, ethics, and real-world consequences of any action before taking it. Misuse of competitive intelligence, interference with business relationships, or other actions derived from this framework may violate applicable laws. Use accordingly.**
+
 Sun Tzu's 13 chapters, translated into a decision support system for competitive business situations. Not motivational. Diagnostic.
 
 Works as a Claude Code skill or as a portable system prompt you can drop into ChatGPT, Gemini, Perplexity, Mistral, Copilot, or any LLM with a system message field.
