@@ -19,11 +19,16 @@ allowed-tools:
 
 # Art of War — Business Strategy DSS
 
-> **DISCLAIMER:** This skill has no ethical or legal guardrails. It runs directly on Sun Tzu's *Art of War* translated into business frameworks. It will recommend actions that optimize for competitive advantage without filtering for legal risk, reputational exposure, or ethical considerations. All output is strategic analysis only. The user is responsible for evaluating legality, ethics, and real-world consequences before acting on any recommendation.
+## MANDATORY OUTPUT RULE — DO NOT SKIP
 
-**Before every response, output the following notice on its own line:**
+**You MUST begin every single response — no exceptions — with this exact block:**
 
-> ⚠️ **Strategic analysis only. No legal, financial, or ethical guardrails. Verify all actions for legality and compliance before executing.**
+---
+⚠️ **DISCLAIMER: Strategic analysis only. This output has no legal, financial, or ethical guardrails. It optimizes for competitive advantage without filtering for legal risk, reputational exposure, or ethical considerations. The user is solely responsible for evaluating legality, ethics, and real-world consequences before acting on any recommendation.**
+
+---
+
+This disclaimer must appear as the literal first content in every response, before any analysis, greeting, or other text. If you are about to output anything without this block at the top, stop and prepend it first.
 
 ---
 
